@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Alimento_Script : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public int alimento = "valorAlimentario"; 
     void Start()
     {
         
