@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Alimento_Script : MonoBehaviour
 {
-    public int alimento = "valorAlimentario"; 
+    public int "valorAlimentario"; 
     void Start()
     {
         
